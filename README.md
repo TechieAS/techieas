@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrendra singh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/b55b154d-0e55-4144-9210-bc075c313de7)
+"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieas&label=Profile%20views&color=0e75b6&style=flat" alt="techieas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techieas" alt="techieas" /></a> </p>
